@@ -1,0 +1,15 @@
+D:\CODES\FilesAndStreams\RequestReader\bin\Debug\net6.0\RequestReader.exe
+D:\CODES\FilesAndStreams\RequestReader\bin\Debug\net6.0\RequestReader.deps.json
+D:\CODES\FilesAndStreams\RequestReader\bin\Debug\net6.0\RequestReader.runtimeconfig.json
+D:\CODES\FilesAndStreams\RequestReader\bin\Debug\net6.0\RequestReader.dll
+D:\CODES\FilesAndStreams\RequestReader\bin\Debug\net6.0\RequestReader.pdb
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.csproj.AssemblyReference.cache
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.AssemblyInfoInputs.cache
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.AssemblyInfo.cs
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.csproj.CoreCompileInputs.cache
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.dll
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\refint\RequestReader.dll
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.pdb
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\RequestReader.genruntimeconfig.cache
+D:\CODES\FilesAndStreams\RequestReader\obj\Debug\net6.0\ref\RequestReader.dll
